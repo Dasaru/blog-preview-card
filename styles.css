@@ -1,5 +1,7 @@
 :root {
   --main-color: #f4d04e;
+  --text-dark: #111111;
+  --text-light: #6b6b6b;
 }
 
 @font-face {
@@ -56,11 +58,10 @@ body {
   gap: 12px;
 }
 
-.blog-preview-content button {
+.blog-preview-tag {
   background-color: var(--main-color, yellow);
   font-family: "Figtree-ExtraBold";
   padding: 4px 12px;
-  border: none;
   align-self: flex-start;
   font-size: 14px;
   line-height: 150%;
@@ -71,7 +72,7 @@ body {
   margin: 0;
   font-size: 14px;
   line-height: 150%;
-  opacity: 0.7;
+  color: var(--text-dark, black);
 }
 
 .blog-preview-title {
@@ -98,7 +99,7 @@ body {
   margin: 0;
   font-size: 16px;
   line-height: 150%;
-  opacity: 0.5;
+  color: var(--text-light, black);
 }
 
 .blog-preview-author {
