@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Page](https://www.frontendmentor.io/solutions/blog-preview-card-FUKDztU-f2)
-- Live Site URL: [Githup Pages](https://dasaru.github.io/blog-preview-card/)
+- Live Site URL: [Github Pages](https://dasaru.github.io/blog-preview-card/)
 
 ## My process
 
